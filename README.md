@@ -1,9 +1,4 @@
 # Time Series Forecasting with Neural Networks
-
-This notebook was created as part of the **Neural Networks Summer Certification Program** at the **American University of Sharjah (AUS)**. The 2-day workshop was led by **Ms. Maram Helmy**, who guided us step-by-step through this project. All code presented here was written as instructed during the sessions.
-
-## Project Summary
-
 We applied time series forecasting techniques to the well-known **International Airline Passengers** dataset to predict future values. The analysis covers both classical time-series decomposition and modern deep learning methods.
 
 ## Key Features
